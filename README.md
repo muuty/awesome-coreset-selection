@@ -1,5 +1,5 @@
-# awesome-coreset-selection
-A curated list of papers on coreset selection, including data pruning and data distillation.
+# awesome-dataset-distillation
+A curated list of papers on data distillation, including data pruning and coreset-selection.
 
 
 
@@ -7,7 +7,7 @@ A curated list of papers on coreset selection, including data pruning and data d
 ## Survey Paper
 TBU
 
-## Coreset Selection in Offline
+## Coreset Selection
 |📝Title| 📄Paper| 💻Code|🏛Venue|💽 Dataset|
 | :------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------- | :----- |
 |Data Pruning by Information Maximization|[🔗](https://openreview.net/forum?id=93XT0lKOct)|| ICLR'25|CIFAR-100, Imagenet-1K, BBH, MMLU, TYDIQA|
